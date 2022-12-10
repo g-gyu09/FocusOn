@@ -6,8 +6,5 @@
 <hr>
 <h3>My Position - Raspberry Pi - <img width="30" src="https://user-images.githubusercontent.com/101245720/206862088-7fe78f17-f69f-4d94-b949-1ab046b54969.png"</h3>
 <br>
-<img width="50%" alt="FOn_raspi" src="https://user-images.githubusercontent.com/101245720/206862027-649786d3-bbab-425a-b7a0-91fb9fed2164.png">
-
-
-  https://user-images.githubusercontent.com/101245720/206863358-91452b63-34fe-4d79-8feb-04f5d8f8e606.mp4
+<img width="30%" alt="FOn_raspi" src="https://user-images.githubusercontent.com/101245720/206862027-649786d3-bbab-425a-b7a0-91fb9fed2164.png">
 
